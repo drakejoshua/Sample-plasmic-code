@@ -1,0 +1,59 @@
+{
+  "props": [
+    {
+      "name": "Black",
+      "type": "color",
+      "value": "#1D1D21",
+      "category": "color",
+      "meta": {
+        "projectId": "uU7CEgvaAv2Njj8eHgdudp",
+        "id": "gbw8Go4D9FMh"
+      }
+    },
+    {
+      "name": "Pink",
+      "type": "color",
+      "value": "#D1387C",
+      "category": "color",
+      "meta": {
+        "projectId": "uU7CEgvaAv2Njj8eHgdudp",
+        "id": "xtFr_f1zdjQc"
+      }
+    },
+    {
+      "name": "Red",
+      "type": "color",
+      "value": "#B3294D",
+      "category": "color",
+      "meta": {
+        "projectId": "uU7CEgvaAv2Njj8eHgdudp",
+        "id": "NvwKo5aAZJf9"
+      }
+    },
+    {
+      "name": "UnnamedStyleToken",
+      "type": "spacing",
+      "value": "1px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "uU7CEgvaAv2Njj8eHgdudp",
+        "id": "E2WTiLvTP0Mv"
+      }
+    },
+    {
+      "name": "innerContainer",
+      "type": "spacing",
+      "value": "1280px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "uU7CEgvaAv2Njj8eHgdudp",
+        "id": "mdxEZhu1ymyp"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
